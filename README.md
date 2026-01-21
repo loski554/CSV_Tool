@@ -28,18 +28,25 @@ ttkbootstrap (interface graphique)
 ```
 
 ## ➡️ Utilisation
-1. Créer un environnement virtuel dans le dossier csv_tool:
+1. Cloner le projet dans vos documents :
+```bash
+git clone https://github.com/loski554/CSV_Tool
+cd CSV_Tool
+```
+
+2. Créer un environnement virtuel dans le dossier csv_tool:
+*Pour eviter les confilts entre version et packages*
 ```bash
 python -m venv env
 source env/bin/activate # ou .\env\Scripts\activate sous Windows
 ```
 
-2. Installer les requirements:
+3. Installer les requirements:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Lancer le projet:
+4. Lancer le projet:
 ```bash
 python main.py ./input_csv.csv ./data.json #remplacer les fichiers si besoin
 ```
