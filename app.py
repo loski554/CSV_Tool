@@ -11,7 +11,7 @@ class Application(ttk.Window):
         self.geometry('800x400')
 
         #Text titre
-        label = ttk.Label(self, text = 'Utilisateurs valide:', font = 'Poppins 16 bold')
+        label = ttk.Label(self, text = 'Utilisateurs valides:', font = 'Poppins 16 bold')
         label.pack(pady=10)
 
         #Création du tableau utilisateurs valide
