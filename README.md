@@ -54,7 +54,7 @@ python main.py ./input_csv.csv ./data.json #remplacer les fichiers si besoin
 
 ## 🧠 Points techniques mis en avant
 - architecture code modulaire,
-- séprations des fonctions,
+- séparations des fonctions,
 - gestions des erreurs avec logging,
 - interface graphique tkinter
   
