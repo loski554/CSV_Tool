@@ -7,6 +7,8 @@ Ce projet est un script python avec interface graphique permettant de :
 - exporter les données valides au format JSON dans un nouveau fichier,
 - afficher un tableau d'utilisateurs valides dans une interface graphique.
 
+![Interface Graphique Tkinter](./screenshots/image.png)
+
 ## 🛠️ Technologies utilisées
 Python 3 - langage du projet
 Argparse (interface en ligne de commande)
