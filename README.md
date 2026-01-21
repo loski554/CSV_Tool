@@ -11,9 +11,13 @@ Ce projet est un script python avec interface graphique permettant de :
 
 ## 🛠️ Technologies utilisées
 Python 3 - langage du projet
+
 Argparse (interface en ligne de commande)
+
 csv / JSON (extensions fichiers)
+
 Logging (gestion erreur console)
+
 ttkbootstrap (interface graphique)
 
 ## 📂 Structure du projet
