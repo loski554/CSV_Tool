@@ -35,6 +35,7 @@ cd CSV_Tool
 ```
 
 2. Créer un environnement virtuel dans le dossier csv_tool:
+
 *Pour eviter les confilts entre version et packages*
 ```bash
 python -m venv env
