@@ -10,15 +10,11 @@ Ce projet est un script python avec interface graphique permettant de :
 ![Interface Graphique Tkinter](./screenshots/screen_1.png)
 
 ## 🛠️ Technologies utilisées
-Python 3 - langage du projet
-
-Argparse (interface en ligne de commande)
-
-csv / JSON (extensions fichiers)
-
-Logging (gestion erreur console)
-
-ttkbootstrap (interface graphique)
+- Python 3 - langage du projet
+- Argparse (interface en ligne de commande)
+- csv / JSON (extensions fichiers)
+- Logging (gestion erreur console)
+- ttkbootstrap (interface graphique)
 
 ## 📂 Structure du projet
 ```
